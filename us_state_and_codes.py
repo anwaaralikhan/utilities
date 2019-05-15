@@ -1,4 +1,5 @@
 
+# return list of us states with code
 def get_us_states():
     states = [
         {'state_name': 'Alabama', 'state_code': 'AL'},
